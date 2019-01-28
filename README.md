@@ -9,7 +9,7 @@ This project implements the churn modeling idea using Artificial Neural Networks
 
 The code is divided into 3 parts:- (1)Data Preprocessing (2)ANN model (3)Making the predictions and evaluating the model
 
-This project also implements the same model using XGBoost.
+This project is also implemented using XGBoost.
 
 XGBoost is short for eXtreme gradient boosting. It is a library designed and optimized for boosted tree algorithms.
 It's main goal is to push the extreme of the computation limits of machines to provide a scalable, portable and accurate for large scale tree boosting.
